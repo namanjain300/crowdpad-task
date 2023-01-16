@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "572752510561",
+    "project_id": "crowdpadvideotask",
+    "storage_bucket": "crowdpadvideotask.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:572752510561:android:a527042947f298e45bb420",
+        "android_client_info": {
+          "package_name": "com.crowdpad.namanjainvideotask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "572752510561-4cpub84m4u2ob361hrlfq4f513ieg91p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBi06wWYI2_PxFU1fJS8Fr2syr9X0ixIQE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "572752510561-4cpub84m4u2ob361hrlfq4f513ieg91p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
